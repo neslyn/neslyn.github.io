@@ -1,0 +1,27 @@
+.row {
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+.score{
+    font-size: 100px;
+}
+
+
+body {
+    font-weight:bold;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 50px;
+    background: black;
+    color: white;
+
+}
+.headshot{
+    width: 150px;
+    height: 150px;
+}
